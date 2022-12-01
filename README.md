@@ -1,3 +1,3 @@
 # smil-demo
 
-![sample](src/sample.svg)
+![sample](./src/sample.svg)
