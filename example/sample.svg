@@ -11,7 +11,4 @@
     <animate attributeType="XML" attributeName="cx" dur="10s" values="0;100%;25%;75%;37.5%;62.5%;43.75%;56.25%;0%;56.25%;43.75%;62.5%;37.5%;75%;25%;101%;0" repeatCount="indefinite" />
     <animate attributeType="XML" attributeName="cy" dur="15s" values="0;100%;25%;75%;37.5%;62.5%;43.75%;56.25%;50%;60.28%;43.75%;62.5%;40.5%;83%;25%;100%;0" repeatCount="indefinite" />
   </circle>
-  <circle cx="0" cy="50" r="10" fill="blue" stroke="black">
-    <animate attributeName="cx" from="0" to="100%" dur="5s" repeatCount="indefinite" />
-  </circle>
 </svg>
