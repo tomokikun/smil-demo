@@ -19,7 +19,7 @@ cat << EOF > $dir_name/${svg_name}.svg
 EOF
 
 # create readme
-cat << EOF > $dir_name/${svg_name}.md
+cat << EOF > $dir_name/README.md
 # $svg_name
 ![$svg_name](./$svg_name.svg)
 EOF
