@@ -15,7 +15,7 @@ const randomChoice = (items: any[]) => {
 }
 
 const generateCircle = (id: number, x: number, y: number, r: number, dur: number, maxId: number): string => {
-  return `<circle cx="${x}" cy="${y}" fill-opacity="0.8">
+  return `<circle cx="${x}" cy="${y}" fill-opacity="0.8" filter="url(#s44)">
     <animate
       id="animate_r_${id}"
       attributeName="r"
@@ -79,9 +79,15 @@ async function main() {
 
   const circles = Array(5).fill(0).map((_, i) => generate()).join("")
 
+  const filter = `
+  <filter id="s44">
+  <feGaussianBlur stdDeviation="30" />
+  </filter>
+  `
   const g = (ch?: any) => {
     return [
       "<g>",
+      filter,
       background,
       circles,
       "</g>"
