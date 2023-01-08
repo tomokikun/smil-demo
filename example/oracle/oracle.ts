@@ -1,13 +1,8 @@
 import { outputAsFile } from "../lib/file";
 import { svg } from "../lib/svg";
 import { eight } from "../eight/eight";
+import { random } from "../lib/random";
 
-/**
- * `min`以上`max`以下の乱数を生成
- */
-const random = (min: number, max: number): number => {
-  return max * Math.random() + min;
-}
 
 const defs = () => {
   return `<defs>
