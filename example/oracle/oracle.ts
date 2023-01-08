@@ -2,8 +2,20 @@ import { outputAsFile } from "../lib/file";
 import { svg } from "../lib/svg";
 import { eight } from "../eight/eight";
 
-const random = (): number => {
-  return Math.random();
+/**
+ * `min`以上`max`以下の乱数を生成
+ */
+const random = (min: number, max: number): number => {
+  return max * Math.random() + min;
+}
+
+const defs = () => {
+  return `<defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs>`
 }
 
 interface EightProps {
@@ -21,7 +33,7 @@ const generateEight = (props: EightProps): string => {
 
   const x = cx + r * Math.cos(theta);
   const y = cy + r * Math.sin(theta);
-  const visibleCircleRadius = 10 * random();
+  const visibleCircleRadius = random(2, 15);
   const circleCount = 2;
   const baseColor = "url(#linear_gradient)";
 
@@ -34,12 +46,13 @@ const generateEight = (props: EightProps): string => {
     baseColor,
     strokeDuration,
     rotateDuration,
+    defs: defs()
   })
 }
 
 async function main() {
 
-  const counts = 300;
+  const counts = 100;
   const innerRadius = 50;
 
   const eights = Array(counts).fill(0)
@@ -47,10 +60,10 @@ async function main() {
       id: i.toString(),
       cx: 200,
       cy: 200,
-      r: 100 * random() + innerRadius,
-      theta: 360 * random() * Math.PI / 180,
-      strokeDuration: 30 * random() + 30,
-      rotateDuration: 30 * random() + 30,
+      r: random(innerRadius, 100),
+      theta: random(0, 360) * Math.PI / 180,
+      strokeDuration: random(30, 100),
+      rotateDuration: random(30, 80),
     }))
     .join("");
 
