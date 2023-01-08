@@ -81,7 +81,7 @@ async function main() {
 
   const filter = `
   <filter id="s44">
-  <feGaussianBlur stdDeviation="30" />
+  <feGaussianBlur stdDeviation="3" />
   </filter>
   `
   const g = (ch?: any) => {
