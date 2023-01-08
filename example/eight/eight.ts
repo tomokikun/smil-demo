@@ -1,34 +1,6 @@
 import { outputAsFile } from "../lib/file";
 import { svg } from "../lib/svg";
 
-/**
-interface SvgCompInterface {
-  prefix: string;
-  suffix: string;
-  children: SvgCompInterface[];
-  append(elm: SvgCompInterface): void;
-  build(): string; 
-}
-
-class SvgComponent implements SvgCompInterface {
-  prefix: string = "";
-  suffix: string = "";
-  children: SvgComponent[] = [];
-
-  append(elm: SvgComponent): void {
-    this.children.push(elm)
-  }
-
-  build(): string {
-    return this.prefix + this.children.map((child) => {child.build()}).join("") + this.suffix;
-  }
-}
-
-const buildSvg = (svg: SvgComponent) => {
-  return svg.build()
-}
- */
-
 const defs = () => {
   return `<defs>
     <linearGradient id="linear_gradient">
@@ -139,16 +111,17 @@ interface EightProps {
   baseColor: string,
   strokeDuration: number,
   rotateDuration: number,
+  defs: string, // <defs />
 }
 
 export const eight = (props: EightProps) => {
-  const { id, cx, cy, visibleCircleRadius, circleCount, baseColor, strokeDuration, rotateDuration } = props;
+  const { id, cx, cy, visibleCircleRadius, circleCount, baseColor, strokeDuration, rotateDuration, defs } = props;
   const wrapperCircleRadius = visibleCircleRadius * 1.6;
   const strokeWidth = visibleCircleRadius;
 
   return [
     "<g>",
-    defs(),
+    defs,
     circle({
       cx,
       cy: cy - wrapperCircleRadius,
@@ -205,6 +178,7 @@ async function main() {
     baseColor,
     strokeDuration,
     rotateDuration,
+    defs: defs()
   })
 
   const generatedSvg = svg(g)
