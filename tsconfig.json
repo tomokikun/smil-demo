@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "strict": true,
+  },
+  "include": [
+    "example/**/*.ts",
+    "example/**/*.tsx",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
