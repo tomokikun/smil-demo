@@ -47,7 +47,7 @@ const generateEight = (props: EightProps): string => {
 
 async function main() {
 
-  const counts = 100;
+  const counts = 80;
   const innerRadius = 50;
 
   const eights = Array(counts).fill(0)
@@ -57,16 +57,22 @@ async function main() {
       cy: 200,
       r: random(innerRadius, 100),
       theta: random(0, 360) * Math.PI / 180,
-      strokeDuration: random(30, 100),
-      rotateDuration: random(30, 80),
+      strokeDuration: random(30, 300),
+      rotateDuration: random(30, 300),
     }))
     .join("");
 
+  const filter = `
+  <filter id="s44">
+    <feGaussianBlur stdDeviation="0.2" />
+  </filter>
+  `
   const g = (ch?: any) => {
     return [
-      "<g>",
+      '<g filter="url(#s44)">',
+      filter,
       eights,
-      "</g>"
+      "</g>",
     ].join("")
   }
 
