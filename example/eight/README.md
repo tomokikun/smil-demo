@@ -1,5 +1,6 @@
 # eight
 ![eight](./eight.svg)
+![](./color.svg)
 
 
 as Data URL:
