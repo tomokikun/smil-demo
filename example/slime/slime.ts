@@ -75,7 +75,7 @@ async function main() {
       scale="80"
       xChannelSelector="R"
       yChannelSelector="G" />
-    <feGaussianBlur stdDeviation="0.1" />
+    <feGaussianBlur stdDeviation="0 0.1" />
   </filter>
   `
   const g = (ch?: any) => {
