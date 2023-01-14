@@ -28,7 +28,7 @@ const generateEight = (props: EightProps): string => {
 
   const x = cx + r * Math.cos(theta);
   const y = cy + r * Math.sin(theta);
-  const visibleCircleRadius = random(2, 15);
+  const visibleCircleRadius = random(2, 50);
   const circleCount = 2;
   const baseColor = "url(#linear_gradient)";
 
@@ -47,17 +47,17 @@ const generateEight = (props: EightProps): string => {
 
 async function main() {
 
-  const counts = 80;
-  const innerRadius = 50;
+  const counts = 10;
+  const innerRadius = 30;
 
   const eights = Array(counts).fill(0)
     .map((_, i) => generateEight({
       id: i.toString(),
       cx: 200,
       cy: 200,
-      r: random(innerRadius, 100),
+      r: random(innerRadius, 50),
       theta: random(0, 360) * Math.PI / 180,
-      strokeDuration: random(10, 300),
+      strokeDuration: random(10, 100),
       rotateDuration: random(10, 100),
     }))
     .join("");
