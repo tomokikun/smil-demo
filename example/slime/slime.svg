@@ -1,0 +1,2178 @@
+<svg viewBox="0 0 450 450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g filter="url(#s44)">
+  <filter id="s44">
+    <feTurbulence
+      type="turbulence"
+      baseFrequency="0.05"
+      numOctaves="2"
+      result="turbulence" />
+    <feDisplacementMap
+      in2="turbulence"
+      in="SourceGraphic"
+      scale="80"
+      xChannelSelector="R"
+      yChannelSelector="G" />
+    <feGaussianBlur stdDeviation="0 0.5" />
+  </filter>
+  <g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="59.010484534659156" cy="224.97150161271708" r="6.615118010491823"></circle><circle fill="url(#linear_gradient)" cx="59.010484534659156" cy="246.1398792462909" r="6.615118010491823"></circle><path id="motion_path_0"
+      d="M 59.010484534659156,235.55569042950398
+      a 10.584188816786918,10.584188816786918 90 0 0 0,-21.168377633573837
+      a 10.584188816786918,10.584188816786918 90 0 0 0,21.168377633573837
+      a 10.584188816786918,10.584188816786918 90 0 1 0,21.168377633573837
+      a 10.584188816786918,10.584188816786918 90 0 1 0,-21.168377633573837"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="6.615118010491823" stroke-dasharray="21.168377633573837 111.83646169052628"
+      xlink:href="#motion_path_0">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="295.801438551389s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="80.16054641303336s"
+  fill="freeze"
+  from="0,59.010484534659156,235.55569042950398"
+  to="360,59.010484534659156,235.55569042950398"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="186.60261637590582" cy="125.34863718496632" r="11.93381664106063"></circle><circle fill="url(#linear_gradient)" cx="186.60261637590582" cy="163.53685043636034" r="11.93381664106063"></circle><path id="motion_path_1"
+      d="M 186.60261637590582,144.44274381066333
+      a 19.09410662569701,19.09410662569701 90 0 0 0,-38.18821325139402
+      a 19.09410662569701,19.09410662569701 90 0 0 0,38.18821325139402
+      a 19.09410662569701,19.09410662569701 90 0 1 0,38.18821325139402
+      a 19.09410662569701,19.09410662569701 90 0 1 0,-38.18821325139402"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.93381664106063" stroke-dasharray="38.18821325139402 201.75540715720564"
+      xlink:href="#motion_path_1">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="213.44934596769565s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="103.18480441766886s"
+  fill="freeze"
+  from="0,186.60261637590582,144.44274381066333"
+  to="360,186.60261637590582,144.44274381066333"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="130.14044806666698" cy="135.14568228456892" r="11.168838728716615"></circle><circle fill="url(#linear_gradient)" cx="130.14044806666698" cy="170.88596621646207" r="11.168838728716615"></circle><path id="motion_path_2"
+      d="M 130.14044806666698,153.0158242505155
+      a 17.870141965946583,17.870141965946583 90 0 0 0,-35.74028393189317
+      a 17.870141965946583,17.870141965946583 90 0 0 0,35.74028393189317
+      a 17.870141965946583,17.870141965946583 90 0 1 0,35.74028393189317
+      a 17.870141965946583,17.870141965946583 90 0 1 0,-35.74028393189317"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.168838728716615" stroke-dasharray="35.74028393189317 188.8225429434046"
+      xlink:href="#motion_path_2">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="307.08487495356064s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="23.776973208681518s"
+  fill="freeze"
+  from="0,130.14044806666698,153.0158242505155"
+  to="360,130.14044806666698,153.0158242505155"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="83.21898427214143" cy="245.03631736049317" r="2.0300896817619134"></circle><circle fill="url(#linear_gradient)" cx="83.21898427214143" cy="251.53260434213132" r="2.0300896817619134"></circle><path id="motion_path_3"
+      d="M 83.21898427214143,248.28446085131225
+      a 3.2481434908190616,3.2481434908190616 90 0 0 0,-6.496286981638123
+      a 3.2481434908190616,3.2481434908190616 90 0 0 0,6.496286981638123
+      a 3.2481434908190616,3.2481434908190616 90 0 1 0,6.496286981638123
+      a 3.2481434908190616,3.2481434908190616 90 0 1 0,-6.496286981638123"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.0300896817619134" stroke-dasharray="6.496286981638123 34.321087932612556"
+      xlink:href="#motion_path_3">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="106.77981898262271s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="14.96460414267872s"
+  fill="freeze"
+  from="0,83.21898427214143,248.28446085131225"
+  to="360,83.21898427214143,248.28446085131225"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="231.5285257756686" cy="219.41880658320946" r="14.388645446753166"></circle><circle fill="url(#linear_gradient)" cx="231.5285257756686" cy="265.4624720128196" r="14.388645446753166"></circle><path id="motion_path_4"
+      d="M 231.5285257756686,242.44063929801453
+      a 23.02183271480507,23.02183271480507 90 0 0 0,-46.04366542961014
+      a 23.02183271480507,23.02183271480507 90 0 0 0,46.04366542961014
+      a 23.02183271480507,23.02183271480507 90 0 1 0,46.04366542961014
+      a 23.02183271480507,23.02183271480507 90 0 1 0,-46.04366542961014"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.388645446753166" stroke-dasharray="46.04366542961014 243.25721668640892"
+      xlink:href="#motion_path_4">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="275.3506429051572s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="72.05090699964195s"
+  fill="freeze"
+  from="0,231.5285257756686,242.44063929801453"
+  to="360,231.5285257756686,242.44063929801453"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="293.8102876033969" cy="99.53296512647157" r="2.5897244948980926"></circle><circle fill="url(#linear_gradient)" cx="293.8102876033969" cy="107.82008351014545" r="2.5897244948980926"></circle><path id="motion_path_5"
+      d="M 293.8102876033969,103.67652431830851
+      a 4.143559191836949,4.143559191836949 90 0 0 0,-8.287118383673898
+      a 4.143559191836949,4.143559191836949 90 0 0 0,8.287118383673898
+      a 4.143559191836949,4.143559191836949 90 0 1 0,8.287118383673898
+      a 4.143559191836949,4.143559191836949 90 0 1 0,-8.287118383673898"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.5897244948980926" stroke-dasharray="8.287118383673898 43.782382083483775"
+      xlink:href="#motion_path_5">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="54.390242169775675s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="107.16646681343424s"
+  fill="freeze"
+  from="0,293.8102876033969,103.67652431830851"
+  to="360,293.8102876033969,103.67652431830851"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="160.34950940991746" cy="232.0327784561511" r="13.690308856238955"></circle><circle fill="url(#linear_gradient)" cx="160.34950940991746" cy="275.84176679611573" r="13.690308856238955"></circle><path id="motion_path_6"
+      d="M 160.34950940991746,253.93727262613342
+      a 21.90449416998233,21.90449416998233 90 0 0 0,-43.80898833996466
+      a 21.90449416998233,21.90449416998233 90 0 0 0,43.80898833996466
+      a 21.90449416998233,21.90449416998233 90 0 1 0,43.80898833996466
+      a 21.90449416998233,21.90449416998233 90 0 1 0,-43.80898833996466"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.690308856238955" stroke-dasharray="43.80898833996466 231.45100352010311"
+      xlink:href="#motion_path_6">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="90.29315034390223s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="14.794705708977176s"
+  fill="freeze"
+  from="0,160.34950940991746,253.93727262613342"
+  to="360,160.34950940991746,253.93727262613342"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="180.9663345695599" cy="127.38342124752894" r="14.41640882499752"></circle><circle fill="url(#linear_gradient)" cx="180.9663345695599" cy="173.51592948752102" r="14.41640882499752"></circle><path id="motion_path_7"
+      d="M 180.9663345695599,150.44967536752497
+      a 23.06625411999603,23.06625411999603 90 0 0 0,-46.13250823999206
+      a 23.06625411999603,23.06625411999603 90 0 0 0,46.13250823999206
+      a 23.06625411999603,23.06625411999603 90 0 1 0,46.13250823999206
+      a 23.06625411999603,23.06625411999603 90 0 1 0,-46.13250823999206"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.41640882499752" stroke-dasharray="46.13250823999206 243.72658971686727"
+      xlink:href="#motion_path_7">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="167.4486442911285s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="35.91066905321205s"
+  fill="freeze"
+  from="0,180.9663345695599,150.44967536752497"
+  to="360,180.9663345695599,150.44967536752497"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="189.06931659206424" cy="245.9460814833303" r="10.458802611143785"></circle><circle fill="url(#linear_gradient)" cx="189.06931659206424" cy="279.4142498389904" r="10.458802611143785"></circle><path id="motion_path_8"
+      d="M 189.06931659206424,262.68016566116034
+      a 16.734084177830056,16.734084177830056 90 0 0 0,-33.46816835566011
+      a 16.734084177830056,16.734084177830056 90 0 0 0,33.46816835566011
+      a 16.734084177830056,16.734084177830056 90 0 1 0,33.46816835566011
+      a 16.734084177830056,16.734084177830056 90 0 1 0,-33.46816835566011"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.458802611143785" stroke-dasharray="33.46816835566011 176.81853531483628"
+      xlink:href="#motion_path_8">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="35.570408287096384s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="90.11422901447804s"
+  fill="freeze"
+  from="0,189.06931659206424,262.68016566116034"
+  to="360,189.06931659206424,262.68016566116034"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="292.3523659102785" cy="220.91126967041288" r="10.398662823013602"></circle><circle fill="url(#linear_gradient)" cx="292.3523659102785" cy="254.18699070405643" r="10.398662823013602"></circle><path id="motion_path_9"
+      d="M 292.3523659102785,237.54913018723465
+      a 16.637860516821764,16.637860516821764 90 0 0 0,-33.27572103364353
+      a 16.637860516821764,16.637860516821764 90 0 0 0,33.27572103364353
+      a 16.637860516821764,16.637860516821764 90 0 1 0,33.27572103364353
+      a 16.637860516821764,16.637860516821764 90 0 1 0,-33.27572103364353"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.398662823013602" stroke-dasharray="33.27572103364353 175.8018004507522"
+      xlink:href="#motion_path_9">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="41.141605896676474s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="32.2393891672026s"
+  fill="freeze"
+  from="0,292.3523659102785,237.54913018723465"
+  to="360,292.3523659102785,237.54913018723465"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="144.42963659947515" cy="263.6633432752229" r="15.739042388239058"></circle><circle fill="url(#linear_gradient)" cx="144.42963659947515" cy="314.02827891758795" r="15.739042388239058"></circle><path id="motion_path_10"
+      d="M 144.42963659947515,288.84581109640544
+      a 25.182467821182495,25.182467821182495 90 0 0 0,-50.36493564236499
+      a 25.182467821182495,25.182467821182495 90 0 0 0,50.36493564236499
+      a 25.182467821182495,25.182467821182495 90 0 1 0,50.36493564236499
+      a 25.182467821182495,25.182467821182495 90 0 1 0,-50.36493564236499"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.739042388239058" stroke-dasharray="50.36493564236499 266.0872879827882"
+      xlink:href="#motion_path_10">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="224.84785422302787s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="32.52733522184735s"
+  fill="freeze"
+  from="0,144.42963659947515,288.84581109640544"
+  to="360,144.42963659947515,288.84581109640544"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="179.35375409792385" cy="66.06696378849165" r="6.662701540227642"></circle><circle fill="url(#linear_gradient)" cx="179.35375409792385" cy="87.3876087172201" r="6.662701540227642"></circle><path id="motion_path_11"
+      d="M 179.35375409792385,76.72728625285588
+      a 10.660322464364228,10.660322464364228 90 0 0 0,-21.320644928728456
+      a 10.660322464364228,10.660322464364228 90 0 0 0,21.320644928728456
+      a 10.660322464364228,10.660322464364228 90 0 1 0,21.320644928728456
+      a 10.660322464364228,10.660322464364228 90 0 1 0,-21.320644928728456"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="6.662701540227642" stroke-dasharray="21.320644928728456 112.64091802705113"
+      xlink:href="#motion_path_11">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="44.099785405849595s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="97.79188714016573s"
+  fill="freeze"
+  from="0,179.35375409792385,76.72728625285588"
+  to="360,179.35375409792385,76.72728625285588"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="205.80147933278" cy="317.44142550885476" r="8.587879533078873"></circle><circle fill="url(#linear_gradient)" cx="205.80147933278" cy="344.9226400147072" r="8.587879533078873"></circle><path id="motion_path_12"
+      d="M 205.80147933278,331.182032761781
+      a 13.740607252926196,13.740607252926196 90 0 0 0,-27.481214505852392
+      a 13.740607252926196,13.740607252926196 90 0 0 0,27.481214505852392
+      a 13.740607252926196,13.740607252926196 90 0 1 0,27.481214505852392
+      a 13.740607252926196,13.740607252926196 90 0 1 0,-27.481214505852392"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.587879533078873" stroke-dasharray="27.481214505852392 145.18834870076986"
+      xlink:href="#motion_path_12">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="53.26137755920987s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="94.28865434233768s"
+  fill="freeze"
+  from="0,205.80147933278,331.182032761781"
+  to="360,205.80147933278,331.182032761781"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="205.387603141116" cy="72.00429579463132" r="13.377900357838588"></circle><circle fill="url(#linear_gradient)" cx="205.387603141116" cy="114.81357693971479" r="13.377900357838588"></circle><path id="motion_path_13"
+      d="M 205.387603141116,93.40893636717306
+      a 21.40464057254174,21.40464057254174 90 0 0 0,-42.80928114508348
+      a 21.40464057254174,21.40464057254174 90 0 0 0,42.80928114508348
+      a 21.40464057254174,21.40464057254174 90 0 1 0,42.80928114508348
+      a 21.40464057254174,21.40464057254174 90 0 1 0,-42.80928114508348"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.377900357838588" stroke-dasharray="42.80928114508348 226.16936515662516"
+      xlink:href="#motion_path_13">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="238.9020978450246s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="16.64486961184554s"
+  fill="freeze"
+  from="0,205.387603141116,93.40893636717306"
+  to="360,205.387603141116,93.40893636717306"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="323.51146758970367" cy="138.96532537826798" r="5.233680401932863"></circle><circle fill="url(#linear_gradient)" cx="323.51146758970367" cy="155.71310266445315" r="5.233680401932863"></circle><path id="motion_path_14"
+      d="M 323.51146758970367,147.33921402136056
+      a 8.373888643092581,8.373888643092581 90 0 0 0,-16.747777286185162
+      a 8.373888643092581,8.373888643092581 90 0 0 0,16.747777286185162
+      a 8.373888643092581,8.373888643092581 90 0 1 0,16.747777286185162
+      a 8.373888643092581,8.373888643092581 90 0 1 0,-16.747777286185162"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="5.233680401932863" stroke-dasharray="16.747777286185162 88.48161088628945"
+      xlink:href="#motion_path_14">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="45.999434616787184s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="15.702447877620509s"
+  fill="freeze"
+  from="0,323.51146758970367,147.33921402136056"
+  to="360,323.51146758970367,147.33921402136056"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="314.4161023536305" cy="219.8089915657356" r="11.302034879324284"></circle><circle fill="url(#linear_gradient)" cx="314.4161023536305" cy="255.9755031795733" r="11.302034879324284"></circle><path id="motion_path_15"
+      d="M 314.4161023536305,237.89224737265445
+      a 18.083255806918853,18.083255806918853 90 0 0 0,-36.166511613837706
+      a 18.083255806918853,18.083255806918853 90 0 0 0,36.166511613837706
+      a 18.083255806918853,18.083255806918853 90 0 1 0,36.166511613837706
+      a 18.083255806918853,18.083255806918853 90 0 1 0,-36.166511613837706"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.302034879324284" stroke-dasharray="36.166511613837706 191.07438277016723"
+      xlink:href="#motion_path_15">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="292.40926099861593s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="71.06302000857619s"
+  fill="freeze"
+  from="0,314.4161023536305,237.89224737265445"
+  to="360,314.4161023536305,237.89224737265445"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="269.3661050327976" cy="122.3885097735338" r="10.214375895478915"></circle><circle fill="url(#linear_gradient)" cx="269.3661050327976" cy="155.07451263906634" r="10.214375895478915"></circle><path id="motion_path_16"
+      d="M 269.3661050327976,138.73151120630007
+      a 16.343001432766265,16.343001432766265 90 0 0 0,-32.68600286553253
+      a 16.343001432766265,16.343001432766265 90 0 0 0,32.68600286553253
+      a 16.343001432766265,16.343001432766265 90 0 1 0,32.68600286553253
+      a 16.343001432766265,16.343001432766265 90 0 1 0,-32.68600286553253"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.214375895478915" stroke-dasharray="32.68600286553253 172.68621008961134"
+      xlink:href="#motion_path_16">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="181.66692410826084s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="101.69348004589568s"
+  fill="freeze"
+  from="0,269.3661050327976,138.73151120630007"
+  to="360,269.3661050327976,138.73151120630007"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="247.6656692275036" cy="118.99703422928418" r="14.596086652150372"></circle><circle fill="url(#linear_gradient)" cx="247.6656692275036" cy="165.70451151616538" r="14.596086652150372"></circle><path id="motion_path_17"
+      d="M 247.6656692275036,142.35077287272478
+      a 23.353738643440597,23.353738643440597 90 0 0 0,-46.70747728688119
+      a 23.353738643440597,23.353738643440597 90 0 0 0,46.70747728688119
+      a 23.353738643440597,23.353738643440597 90 0 1 0,46.70747728688119
+      a 23.353738643440597,23.353738643440597 90 0 1 0,-46.70747728688119"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.596086652150372" stroke-dasharray="46.70747728688119 246.764257737475"
+      xlink:href="#motion_path_17">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="178.2997974712247s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="53.35098551839813s"
+  fill="freeze"
+  from="0,247.6656692275036,142.35077287272478"
+  to="360,247.6656692275036,142.35077287272478"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="251.1951660565765" cy="218.83564581892622" r="11.668051617632356"></circle><circle fill="url(#linear_gradient)" cx="251.1951660565765" cy="256.17341099534974" r="11.668051617632356"></circle><path id="motion_path_18"
+      d="M 251.1951660565765,237.504528407138
+      a 18.66888258821177,18.66888258821177 90 0 0 0,-37.33776517642354
+      a 18.66888258821177,18.66888258821177 90 0 0 0,37.33776517642354
+      a 18.66888258821177,18.66888258821177 90 0 1 0,37.33776517642354
+      a 18.66888258821177,18.66888258821177 90 0 1 0,-37.33776517642354"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.668051617632356" stroke-dasharray="37.33776517642354 197.26233238300244"
+      xlink:href="#motion_path_18">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="19.382517408113202s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="107.96653888338692s"
+  fill="freeze"
+  from="0,251.1951660565765,237.504528407138"
+  to="360,251.1951660565765,237.504528407138"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="250.51955781818927" cy="201.5665816974419" r="4.378950959848062"></circle><circle fill="url(#linear_gradient)" cx="250.51955781818927" cy="215.57922476895573" r="4.378950959848062"></circle><path id="motion_path_19"
+      d="M 250.51955781818927,208.57290323319882
+      a 7.0063215357569,7.0063215357569 90 0 0 0,-14.0126430715138
+      a 7.0063215357569,7.0063215357569 90 0 0 0,14.0126430715138
+      a 7.0063215357569,7.0063215357569 90 0 1 0,14.0126430715138
+      a 7.0063215357569,7.0063215357569 90 0 1 0,-14.0126430715138"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="4.378950959848062" stroke-dasharray="14.0126430715138 74.03138999017352"
+      xlink:href="#motion_path_19">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="213.32316129281404s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="38.39227784254796s"
+  fill="freeze"
+  from="0,250.51955781818927,208.57290323319882"
+  to="360,250.51955781818927,208.57290323319882"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="253.48785705668843" cy="296.3810739073914" r="4.60624701642651"></circle><circle fill="url(#linear_gradient)" cx="253.48785705668843" cy="311.1210643599562" r="4.60624701642651"></circle><path id="motion_path_20"
+      d="M 253.48785705668843,303.7510691336738
+      a 7.369995226282416,7.369995226282416 90 0 0 0,-14.739990452564832
+      a 7.369995226282416,7.369995226282416 90 0 0 0,14.739990452564832
+      a 7.369995226282416,7.369995226282416 90 0 1 0,14.739990452564832
+      a 7.369995226282416,7.369995226282416 90 0 1 0,-14.739990452564832"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="4.60624701642651" stroke-dasharray="14.739990452564832 77.8741009869579"
+      xlink:href="#motion_path_20">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="191.9945733552455s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="41.06393778291145s"
+  fill="freeze"
+  from="0,253.48785705668843,303.7510691336738"
+  to="360,253.48785705668843,303.7510691336738"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="252.60505355675366" cy="240.80543271022609" r="15.914569059180028"></circle><circle fill="url(#linear_gradient)" cx="252.60505355675366" cy="291.73205369960215" r="15.914569059180028"></circle><path id="motion_path_21"
+      d="M 252.60505355675366,266.26874320491413
+      a 25.463310494688045,25.463310494688045 90 0 0 0,-50.92662098937609
+      a 25.463310494688045,25.463310494688045 90 0 0 0,50.92662098937609
+      a 25.463310494688045,25.463310494688045 90 0 1 0,50.92662098937609
+      a 25.463310494688045,25.463310494688045 90 0 1 0,-50.92662098937609"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.914569059180028" stroke-dasharray="50.92662098937609 269.05477575537526"
+      xlink:href="#motion_path_21">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="43.30593263144124s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="105.5079412208616s"
+  fill="freeze"
+  from="0,252.60505355675366,266.26874320491413"
+  to="360,252.60505355675366,266.26874320491413"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="305.6382904282052" cy="211.49273202806515" r="7.778875335887287"></circle><circle fill="url(#linear_gradient)" cx="305.6382904282052" cy="236.38513310290446" r="7.778875335887287"></circle><path id="motion_path_22"
+      d="M 305.6382904282052,223.9389325654848
+      a 12.44620053741966,12.44620053741966 90 0 0 0,-24.89240107483932
+      a 12.44620053741966,12.44620053741966 90 0 0 0,24.89240107483932
+      a 12.44620053741966,12.44620053741966 90 0 1 0,24.89240107483932
+      a 12.44620053741966,12.44620053741966 90 0 1 0,-24.89240107483932"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="7.778875335887287" stroke-dasharray="24.89240107483932 131.51116761901244"
+      xlink:href="#motion_path_22">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="67.57828990270582s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="10.267472518517199s"
+  fill="freeze"
+  from="0,305.6382904282052,223.9389325654848"
+  to="360,305.6382904282052,223.9389325654848"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="153.44952270281328" cy="100.67949948964488" r="11.880724903013387"></circle><circle fill="url(#linear_gradient)" cx="153.44952270281328" cy="138.69781917928773" r="11.880724903013387"></circle><path id="motion_path_23"
+      d="M 153.44952270281328,119.68865933446631
+      a 19.009159844821422,19.009159844821422 90 0 0 0,-38.018319689642844
+      a 19.009159844821422,19.009159844821422 90 0 0 0,38.018319689642844
+      a 19.009159844821422,19.009159844821422 90 0 1 0,38.018319689642844
+      a 19.009159844821422,19.009159844821422 90 0 1 0,-38.018319689642844"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.880724903013387" stroke-dasharray="38.018319689642844 200.85782798797743"
+      xlink:href="#motion_path_23">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="83.67870722354239s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="39.37055674696805s"
+  fill="freeze"
+  from="0,153.44952270281328,119.68865933446631"
+  to="360,153.44952270281328,119.68865933446631"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="236.96340021095222" cy="101.01197900162873" r="10.332232138978378"></circle><circle fill="url(#linear_gradient)" cx="236.96340021095222" cy="134.07512184635954" r="10.332232138978378"></circle><path id="motion_path_24"
+      d="M 236.96340021095222,117.54355042399413
+      a 16.531571422365406,16.531571422365406 90 0 0 0,-33.06314284473081
+      a 16.531571422365406,16.531571422365406 90 0 0 0,33.06314284473081
+      a 16.531571422365406,16.531571422365406 90 0 1 0,33.06314284473081
+      a 16.531571422365406,16.531571422365406 90 0 1 0,-33.06314284473081"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.332232138978378" stroke-dasharray="33.06314284473081 174.6787104864617"
+      xlink:href="#motion_path_24">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="204.84414089045165s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="94.98069862308088s"
+  fill="freeze"
+  from="0,236.96340021095222,117.54355042399413"
+  to="360,236.96340021095222,117.54355042399413"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="154.67450618300958" cy="133.82545292629928" r="5.678214484039557"></circle><circle fill="url(#linear_gradient)" cx="154.67450618300958" cy="151.99573927522587" r="5.678214484039557"></circle><path id="motion_path_25"
+      d="M 154.67450618300958,142.91059610076258
+      a 9.085143174463292,9.085143174463292 90 0 0 0,-18.170286348926584
+      a 9.085143174463292,9.085143174463292 90 0 0 0,18.170286348926584
+      a 9.085143174463292,9.085143174463292 90 0 1 0,18.170286348926584
+      a 9.085143174463292,9.085143174463292 90 0 1 0,-18.170286348926584"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="5.678214484039557" stroke-dasharray="18.170286348926584 95.99698986589475"
+      xlink:href="#motion_path_25">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="291.5200601783354s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="22.14359338038755s"
+  fill="freeze"
+  from="0,154.67450618300958,142.91059610076258"
+  to="360,154.67450618300958,142.91059610076258"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="192.42672193805345" cy="107.41158113138266" r="8.524992632752149"></circle><circle fill="url(#linear_gradient)" cx="192.42672193805345" cy="134.69155755618954" r="8.524992632752149"></circle><path id="motion_path_26"
+      d="M 192.42672193805345,121.0515693437861
+      a 13.639988212403438,13.639988212403438 90 0 0 0,-27.279976424806875
+      a 13.639988212403438,13.639988212403438 90 0 0 0,27.279976424806875
+      a 13.639988212403438,13.639988212403438 90 0 1 0,27.279976424806875
+      a 13.639988212403438,13.639988212403438 90 0 1 0,-27.279976424806875"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.524992632752149" stroke-dasharray="27.279976424806875 144.12517062774518"
+      xlink:href="#motion_path_26">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="269.2346488703101s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="103.0883355152648s"
+  fill="freeze"
+  from="0,192.42672193805345,121.0515693437861"
+  to="360,192.42672193805345,121.0515693437861"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="230.84685584556303" cy="89.05258154122777" r="2.065861232396508"></circle><circle fill="url(#linear_gradient)" cx="230.84685584556303" cy="95.6633374848966" r="2.065861232396508"></circle><path id="motion_path_27"
+      d="M 230.84685584556303,92.35795951306218
+      a 3.3053779718344134,3.3053779718344134 90 0 0 0,-6.610755943668827
+      a 3.3053779718344134,3.3053779718344134 90 0 0 0,6.610755943668827
+      a 3.3053779718344134,3.3053779718344134 90 0 1 0,6.610755943668827
+      a 3.3053779718344134,3.3053779718344134 90 0 1 0,-6.610755943668827"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.065861232396508" stroke-dasharray="6.610755943668827 34.925848670941264"
+      xlink:href="#motion_path_27">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="67.81234717158898s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="55.709282860885494s"
+  fill="freeze"
+  from="0,230.84685584556303,92.35795951306218"
+  to="360,230.84685584556303,92.35795951306218"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="128.63773431472728" cy="117.75925937986469" r="11.00791397040021"></circle><circle fill="url(#linear_gradient)" cx="128.63773431472728" cy="152.98458408514537" r="11.00791397040021"></circle><path id="motion_path_28"
+      d="M 128.63773431472728,135.37192173250503
+      a 17.61266235264034,17.61266235264034 90 0 0 0,-35.22532470528068
+      a 17.61266235264034,17.61266235264034 90 0 0 0,35.22532470528068
+      a 17.61266235264034,17.61266235264034 90 0 1 0,35.22532470528068
+      a 17.61266235264034,17.61266235264034 90 0 1 0,-35.22532470528068"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.00791397040021" stroke-dasharray="35.22532470528068 186.10191792356895"
+      xlink:href="#motion_path_28">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="75.54828385241407s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="29.818587259361454s"
+  fill="freeze"
+  from="0,128.63773431472728,135.37192173250503"
+  to="360,128.63773431472728,135.37192173250503"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="68.76908464588763" cy="221.65064559023128" r="4.217832595771393"></circle><circle fill="url(#linear_gradient)" cx="68.76908464588763" cy="235.14770989669975" r="4.217832595771393"></circle><path id="motion_path_29"
+      d="M 68.76908464588763,228.39917774346551
+      a 6.748532153234229,6.748532153234229 90 0 0 0,-13.497064306468458
+      a 6.748532153234229,6.748532153234229 90 0 0 0,13.497064306468458
+      a 6.748532153234229,6.748532153234229 90 0 1 0,13.497064306468458
+      a 6.748532153234229,6.748532153234229 90 0 1 0,-13.497064306468458"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="4.217832595771393" stroke-dasharray="13.497064306468458 71.30749183399219"
+      xlink:href="#motion_path_29">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="27.043638747528544s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="88.67568362033852s"
+  fill="freeze"
+  from="0,68.76908464588763,228.39917774346551"
+  to="360,68.76908464588763,228.39917774346551"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="76.34654453342527" cy="111.39763223609232" r="2.724775661444018"></circle><circle fill="url(#linear_gradient)" cx="76.34654453342527" cy="120.11691435271318" r="2.724775661444018"></circle><path id="motion_path_30"
+      d="M 76.34654453342527,115.75727329440275
+      a 4.359641058310429,4.359641058310429 90 0 0 0,-8.719282116620859
+      a 4.359641058310429,4.359641058310429 90 0 0 0,8.719282116620859
+      a 4.359641058310429,4.359641058310429 90 0 1 0,8.719282116620859
+      a 4.359641058310429,4.359641058310429 90 0 1 0,-8.719282116620859"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.724775661444018" stroke-dasharray="8.719282116620859 46.06558316768504"
+      xlink:href="#motion_path_30">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="261.87597373412757s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="31.820527009304037s"
+  fill="freeze"
+  from="0,76.34654453342527,115.75727329440275"
+  to="360,76.34654453342527,115.75727329440275"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="159.83891732862767" cy="238.68949492506007" r="10.38995688303152"></circle><circle fill="url(#linear_gradient)" cx="159.83891732862767" cy="271.93735695076094" r="10.38995688303152"></circle><path id="motion_path_31"
+      d="M 159.83891732862767,255.3134259379105
+      a 16.62393101285043,16.62393101285043 90 0 0 0,-33.24786202570086
+      a 16.62393101285043,16.62393101285043 90 0 0 0,33.24786202570086
+      a 16.62393101285043,16.62393101285043 90 0 1 0,33.24786202570086
+      a 16.62393101285043,16.62393101285043 90 0 1 0,-33.24786202570086"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.38995688303152" stroke-dasharray="33.24786202570086 175.6546161493169"
+      xlink:href="#motion_path_31">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="58.4206808117543s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="41.39407786541737s"
+  fill="freeze"
+  from="0,159.83891732862767,255.3134259379105"
+  to="360,159.83891732862767,255.3134259379105"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="145.07570905830983" cy="259.24991631351645" r="13.168780420385238"></circle><circle fill="url(#linear_gradient)" cx="145.07570905830983" cy="301.39001365874924" r="13.168780420385238"></circle><path id="motion_path_32"
+      d="M 145.07570905830983,280.31996498613285
+      a 21.07004867261638,21.07004867261638 90 0 0 0,-42.14009734523276
+      a 21.07004867261638,21.07004867261638 90 0 0 0,42.14009734523276
+      a 21.07004867261638,21.07004867261638 90 0 1 0,42.14009734523276
+      a 21.07004867261638,21.07004867261638 90 0 1 0,-42.14009734523276"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.168780420385238" stroke-dasharray="42.14009734523276 222.6339431374512"
+      xlink:href="#motion_path_32">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="150.37059565273054s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="54.27842344116648s"
+  fill="freeze"
+  from="0,145.07570905830983,280.31996498613285"
+  to="360,145.07570905830983,280.31996498613285"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="68.67572145639343" cy="118.58516984598361" r="8.005917634997157"></circle><circle fill="url(#linear_gradient)" cx="68.67572145639343" cy="144.20410627797452" r="8.005917634997157"></circle><path id="motion_path_33"
+      d="M 68.67572145639343,131.39463806197907
+      a 12.809468215995452,12.809468215995452 90 0 0 0,-25.618936431990903
+      a 12.809468215995452,12.809468215995452 90 0 0 0,25.618936431990903
+      a 12.809468215995452,12.809468215995452 90 0 1 0,25.618936431990903
+      a 12.809468215995452,12.809468215995452 90 0 1 0,-25.618936431990903"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.005917634997157" stroke-dasharray="25.618936431990903 135.34958854306214"
+      xlink:href="#motion_path_33">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="41.021944804855806s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="100.69153525895179s"
+  fill="freeze"
+  from="0,68.67572145639343,131.39463806197907"
+  to="360,68.67572145639343,131.39463806197907"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="320.6667119068663" cy="198.36733436033614" r="2.1556779735298095"></circle><circle fill="url(#linear_gradient)" cx="320.6667119068663" cy="205.2655038756315" r="2.1556779735298095"></circle><path id="motion_path_34"
+      d="M 320.6667119068663,201.81641911798383
+      a 3.4490847576476953,3.4490847576476953 90 0 0 0,-6.898169515295391
+      a 3.4490847576476953,3.4490847576476953 90 0 0 0,6.898169515295391
+      a 3.4490847576476953,3.4490847576476953 90 0 1 0,6.898169515295391
+      a 3.4490847576476953,3.4490847576476953 90 0 1 0,-6.898169515295391"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.1556779735298095" stroke-dasharray="6.898169515295391 36.44430782964273"
+      xlink:href="#motion_path_34">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="254.73105884167657s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="83.69871646550878s"
+  fill="freeze"
+  from="0,320.6667119068663,201.81641911798383"
+  to="360,320.6667119068663,201.81641911798383"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="201.16988078540618" cy="282.04781394187546" r="11.46909607915716"></circle><circle fill="url(#linear_gradient)" cx="201.16988078540618" cy="318.7489213951784" r="11.46909607915716"></circle><path id="motion_path_35"
+      d="M 201.16988078540618,300.39836766852693
+      a 18.350553726651455,18.350553726651455 90 0 0 0,-36.70110745330291
+      a 18.350553726651455,18.350553726651455 90 0 0 0,36.70110745330291
+      a 18.350553726651455,18.350553726651455 90 0 1 0,36.70110745330291
+      a 18.350553726651455,18.350553726651455 90 0 1 0,-36.70110745330291"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.46909607915716" stroke-dasharray="36.70110745330291 193.89875165450914"
+      xlink:href="#motion_path_35">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="173.3490756973603s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="59.05289157491581s"
+  fill="freeze"
+  from="0,201.16988078540618,300.39836766852693"
+  to="360,201.16988078540618,300.39836766852693"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="156.7213815696619" cy="319.8615744306702" r="8.306852002921582"></circle><circle fill="url(#linear_gradient)" cx="156.7213815696619" cy="346.4435008400193" r="8.306852002921582"></circle><path id="motion_path_36"
+      d="M 156.7213815696619,333.15253763534474
+      a 13.290963204674533,13.290963204674533 90 0 0 0,-26.581926409349066
+      a 13.290963204674533,13.290963204674533 90 0 0 0,26.581926409349066
+      a 13.290963204674533,13.290963204674533 90 0 1 0,26.581926409349066
+      a 13.290963204674533,13.290963204674533 90 0 1 0,-26.581926409349066"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.306852002921582" stroke-dasharray="26.581926409349066 140.43724304240197"
+      xlink:href="#motion_path_36">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="214.1875607256326s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="60.98532887448324s"
+  fill="freeze"
+  from="0,156.7213815696619,333.15253763534474"
+  to="360,156.7213815696619,333.15253763534474"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="138.210363750756" cy="137.45626556152442" r="4.950395058235539"></circle><circle fill="url(#linear_gradient)" cx="138.210363750756" cy="153.29752974787814" r="4.950395058235539"></circle><path id="motion_path_37"
+      d="M 138.210363750756,145.37689765470128
+      a 7.920632093176863,7.920632093176863 90 0 0 0,-15.841264186353726
+      a 7.920632093176863,7.920632093176863 90 0 0 0,15.841264186353726
+      a 7.920632093176863,7.920632093176863 90 0 1 0,15.841264186353726
+      a 7.920632093176863,7.920632093176863 90 0 1 0,-15.841264186353726"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="4.950395058235539" stroke-dasharray="15.841264186353726 83.69233419649419"
+      xlink:href="#motion_path_37">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="81.27523234330258s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="65.8761737614405s"
+  fill="freeze"
+  from="0,138.210363750756,145.37689765470128"
+  to="360,138.210363750756,145.37689765470128"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="270.6623801900853" cy="187.87394079354544" r="13.588531572011147"></circle><circle fill="url(#linear_gradient)" cx="270.6623801900853" cy="231.3572418239811" r="13.588531572011147"></circle><path id="motion_path_38"
+      d="M 270.6623801900853,209.61559130876327
+      a 21.741650515217838,21.741650515217838 90 0 0 0,-43.483301030435676
+      a 21.741650515217838,21.741650515217838 90 0 0 0,43.483301030435676
+      a 21.741650515217838,21.741650515217838 90 0 1 0,43.483301030435676
+      a 21.741650515217838,21.741650515217838 90 0 1 0,-43.483301030435676"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.588531572011147" stroke-dasharray="43.483301030435676 229.73033711166474"
+      xlink:href="#motion_path_38">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="23.354783226792712s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="46.34774216419745s"
+  fill="freeze"
+  from="0,270.6623801900853,209.61559130876327"
+  to="360,270.6623801900853,209.61559130876327"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="276.7934558644619" cy="218.11789851288697" r="13.86903185562019"></circle><circle fill="url(#linear_gradient)" cx="276.7934558644619" cy="262.49880045087156" r="13.86903185562019"></circle><path id="motion_path_39"
+      d="M 276.7934558644619,240.30834948187928
+      a 22.190450968992305,22.190450968992305 90 0 0 0,-44.38090193798461
+      a 22.190450968992305,22.190450968992305 90 0 0 0,44.38090193798461
+      a 22.190450968992305,22.190450968992305 90 0 1 0,44.38090193798461
+      a 22.190450968992305,22.190450968992305 90 0 1 0,-44.38090193798461"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.86903185562019" stroke-dasharray="44.38090193798461 234.4725290381383"
+      xlink:href="#motion_path_39">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="128.79128789196483s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="20.66651854810128s"
+  fill="freeze"
+  from="0,276.7934558644619,240.30834948187928"
+  to="360,276.7934558644619,240.30834948187928"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="260.5248161253163" cy="63.22438535261761" r="5.637412403365273"></circle><circle fill="url(#linear_gradient)" cx="260.5248161253163" cy="81.26410504338648" r="5.637412403365273"></circle><path id="motion_path_40"
+      d="M 260.5248161253163,72.24424519800205
+      a 9.019859845384437,9.019859845384437 90 0 0 0,-18.039719690768873
+      a 9.019859845384437,9.019859845384437 90 0 0 0,18.039719690768873
+      a 9.019859845384437,9.019859845384437 90 0 1 0,18.039719690768873
+      a 9.019859845384437,9.019859845384437 90 0 1 0,-18.039719690768873"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="5.637412403365273" stroke-dasharray="18.039719690768873 95.30718201590838"
+      xlink:href="#motion_path_40">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="158.015210826134s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="30.13462333778222s"
+  fill="freeze"
+  from="0,260.5248161253163,72.24424519800205"
+  to="360,260.5248161253163,72.24424519800205"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="298.4015174684754" cy="280.9541029244688" r="11.072445644482077"></circle><circle fill="url(#linear_gradient)" cx="298.4015174684754" cy="316.3859289868115" r="11.072445644482077"></circle><path id="motion_path_41"
+      d="M 298.4015174684754,298.67001595564017
+      a 17.715913031171322,17.715913031171322 90 0 0 0,-35.431826062342644
+      a 17.715913031171322,17.715913031171322 90 0 0 0,35.431826062342644
+      a 17.715913031171322,17.715913031171322 90 0 1 0,35.431826062342644
+      a 17.715913031171322,17.715913031171322 90 0 1 0,-35.431826062342644"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.072445644482077" stroke-dasharray="35.431826062342644 187.19290285911137"
+      xlink:href="#motion_path_41">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="264.57425530375474s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="18.06974086922645s"
+  fill="freeze"
+  from="0,298.4015174684754,298.67001595564017"
+  to="360,298.4015174684754,298.67001595564017"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="272.648132063774" cy="173.53804569109542" r="2.106549366471629"></circle><circle fill="url(#linear_gradient)" cx="272.648132063774" cy="180.27900366380464" r="2.106549366471629"></circle><path id="motion_path_42"
+      d="M 272.648132063774,176.90852467745003
+      a 3.3704789863546063,3.3704789863546063 90 0 0 0,-6.740957972709213
+      a 3.3704789863546063,3.3704789863546063 90 0 0 0,6.740957972709213
+      a 3.3704789863546063,3.3704789863546063 90 0 1 0,6.740957972709213
+      a 3.3704789863546063,3.3704789863546063 90 0 1 0,-6.740957972709213"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.106549366471629" stroke-dasharray="6.740957972709213 35.6137301177324"
+      xlink:href="#motion_path_42">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="67.31868158042809s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="63.22609301025807s"
+  fill="freeze"
+  from="0,272.648132063774,176.90852467745003"
+  to="360,272.648132063774,176.90852467745003"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="277.2803810091656" cy="254.1320723329503" r="16.68118259769765"></circle><circle fill="url(#linear_gradient)" cx="277.2803810091656" cy="307.5118566455828" r="16.68118259769765"></circle><path id="motion_path_43"
+      d="M 277.2803810091656,280.8219644892665
+      a 26.68989215631624,26.68989215631624 90 0 0 0,-53.37978431263248
+      a 26.68989215631624,26.68989215631624 90 0 0 0,53.37978431263248
+      a 26.68989215631624,26.68989215631624 90 0 1 0,53.37978431263248
+      a 26.68989215631624,26.68989215631624 90 0 1 0,-53.37978431263248"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="16.68118259769765" stroke-dasharray="53.37978431263248 282.0152921809153"
+      xlink:href="#motion_path_43">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="180.6401056415195s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="13.848108308148412s"
+  fill="freeze"
+  from="0,277.2803810091656,280.8219644892665"
+  to="360,277.2803810091656,280.8219644892665"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="270.1379748058291" cy="161.61053655281296" r="2.4114285622956126"></circle><circle fill="url(#linear_gradient)" cx="270.1379748058291" cy="169.32710795215894" r="2.4114285622956126"></circle><path id="motion_path_44"
+      d="M 270.1379748058291,165.46882225248595
+      a 3.8582856996729804,3.8582856996729804 90 0 0 0,-7.716571399345961
+      a 3.8582856996729804,3.8582856996729804 90 0 0 0,7.716571399345961
+      a 3.8582856996729804,3.8582856996729804 90 0 1 0,7.716571399345961
+      a 3.8582856996729804,3.8582856996729804 90 0 1 0,-7.716571399345961"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="2.4114285622956126" stroke-dasharray="7.716571399345961 40.7680766388268"
+      xlink:href="#motion_path_44">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="212.03499921111788s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="27.26104528843475s"
+  fill="freeze"
+  from="0,270.1379748058291,165.46882225248595"
+  to="360,270.1379748058291,165.46882225248595"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="95.85206627188855" cy="220.078200358056" r="10.894919314008318"></circle><circle fill="url(#linear_gradient)" cx="95.85206627188855" cy="254.94194216288264" r="10.894919314008318"></circle><path id="motion_path_45"
+      d="M 95.85206627188855,237.51007126046932
+      a 17.43187090241331,17.43187090241331 90 0 0 0,-34.86374180482662
+      a 17.43187090241331,17.43187090241331 90 0 0 0,34.86374180482662
+      a 17.43187090241331,17.43187090241331 90 0 1 0,34.86374180482662
+      a 17.43187090241331,17.43187090241331 90 0 1 0,-34.86374180482662"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.894919314008318" stroke-dasharray="34.86374180482662 184.1916084565627"
+      xlink:href="#motion_path_45">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="188.88687059954052s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="49.31708996732981s"
+  fill="freeze"
+  from="0,95.85206627188855,237.51007126046932"
+  to="360,95.85206627188855,237.51007126046932"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="240.70827449923195" cy="114.1726040920786" r="14.118798457833172"></circle><circle fill="url(#linear_gradient)" cx="240.70827449923195" cy="159.35275915714476" r="14.118798457833172"></circle><path id="motion_path_46"
+      d="M 240.70827449923195,136.76268162461167
+      a 22.590077532533076,22.590077532533076 90 0 0 0,-45.18015506506615
+      a 22.590077532533076,22.590077532533076 90 0 0 0,45.18015506506615
+      a 22.590077532533076,22.590077532533076 90 0 1 0,45.18015506506615
+      a 22.590077532533076,22.590077532533076 90 0 1 0,-45.18015506506615"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.118798457833172" stroke-dasharray="45.18015506506615 238.69513141585284"
+      xlink:href="#motion_path_46">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="300.4424086313265s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="51.041401471952184s"
+  fill="freeze"
+  from="0,240.70827449923195,136.76268162461167"
+  to="360,240.70827449923195,136.76268162461167"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="328.99129200266924" cy="155.4904059434559" r="14.287181673034775"></circle><circle fill="url(#linear_gradient)" cx="328.99129200266924" cy="201.20938729716718" r="14.287181673034775"></circle><path id="motion_path_47"
+      d="M 328.99129200266924,178.34989662031154
+      a 22.859490676855643,22.859490676855643 90 0 0 0,-45.718981353711285
+      a 22.859490676855643,22.859490676855643 90 0 0 0,45.718981353711285
+      a 22.859490676855643,22.859490676855643 90 0 1 0,45.718981353711285
+      a 22.859490676855643,22.859490676855643 90 0 1 0,-45.718981353711285"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.287181673034775" stroke-dasharray="45.718981353711285 241.54185054714492"
+      xlink:href="#motion_path_47">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="16.864316324341925s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="96.07325706299038s"
+  fill="freeze"
+  from="0,328.99129200266924,178.34989662031154"
+  to="360,328.99129200266924,178.34989662031154"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="202.52927339344265" cy="298.7133193766094" r="12.102813291568728"></circle><circle fill="url(#linear_gradient)" cx="202.52927339344265" cy="337.44232190962936" r="12.102813291568728"></circle><path id="motion_path_48"
+      d="M 202.52927339344265,318.07782064311937
+      a 19.364501266509965,19.364501266509965 90 0 0 0,-38.72900253301993
+      a 19.364501266509965,19.364501266509965 90 0 0 0,38.72900253301993
+      a 19.364501266509965,19.364501266509965 90 0 1 0,38.72900253301993
+      a 19.364501266509965,19.364501266509965 90 0 1 0,-38.72900253301993"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="12.102813291568728" stroke-dasharray="38.72900253301993 204.61249714417187"
+      xlink:href="#motion_path_48">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="222.77192154593197s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="75.82881371541018s"
+  fill="freeze"
+  from="0,202.52927339344265,318.07782064311937"
+  to="360,202.52927339344265,318.07782064311937"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="260.76613375820654" cy="196.3845044828801" r="12.939842173531156"></circle><circle fill="url(#linear_gradient)" cx="260.76613375820654" cy="237.79199943817977" r="12.939842173531156"></circle><path id="motion_path_49"
+      d="M 260.76613375820654,217.08825196052993
+      a 20.703747477649852,20.703747477649852 90 0 0 0,-41.407494955299704
+      a 20.703747477649852,20.703747477649852 90 0 0 0,41.407494955299704
+      a 20.703747477649852,20.703747477649852 90 0 1 0,41.407494955299704
+      a 20.703747477649852,20.703747477649852 90 0 1 0,-41.407494955299704"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="12.939842173531156" stroke-dasharray="41.407494955299704 218.76346895495223"
+      xlink:href="#motion_path_49">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="92.97790612446096s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="94.20322660437449s"
+  fill="freeze"
+  from="0,260.76613375820654,217.08825196052993"
+  to="360,260.76613375820654,217.08825196052993"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="290.7689497037385" cy="216.45682477635728" r="15.938267544556826"></circle><circle fill="url(#linear_gradient)" cx="290.7689497037385" cy="267.4592809189391" r="15.938267544556826"></circle><path id="motion_path_50"
+      d="M 290.7689497037385,241.9580528476482
+      a 25.501228071290925,25.501228071290925 90 0 0 0,-51.00245614258185
+      a 25.501228071290925,25.501228071290925 90 0 0 0,51.00245614258185
+      a 25.501228071290925,25.501228071290925 90 0 1 0,51.00245614258185
+      a 25.501228071290925,25.501228071290925 90 0 1 0,-51.00245614258185"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.938267544556826" stroke-dasharray="51.00245614258185 269.4554269225597"
+      xlink:href="#motion_path_50">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="20.18471963479699s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="88.79308241562504s"
+  fill="freeze"
+  from="0,290.7689497037385,241.9580528476482"
+  to="360,290.7689497037385,241.9580528476482"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="214.93067682357312" cy="276.8188081584688" r="14.012375820298441"></circle><circle fill="url(#linear_gradient)" cx="214.93067682357312" cy="321.6584107834238" r="14.012375820298441"></circle><path id="motion_path_51"
+      d="M 214.93067682357312,299.2386094709463
+      a 22.419801312477507,22.419801312477507 90 0 0 0,-44.83960262495501
+      a 22.419801312477507,22.419801312477507 90 0 0 0,44.83960262495501
+      a 22.419801312477507,22.419801312477507 90 0 1 0,44.83960262495501
+      a 22.419801312477507,22.419801312477507 90 0 1 0,-44.83960262495501"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.012375820298441" stroke-dasharray="44.83960262495501 236.89592976793355"
+      xlink:href="#motion_path_51">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="95.61154655746432s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="104.46677571137316s"
+  fill="freeze"
+  from="0,214.93067682357312,299.2386094709463"
+  to="360,214.93067682357312,299.2386094709463"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="107.80855794965015" cy="147.7286445777948" r="11.708245162375121"></circle><circle fill="url(#linear_gradient)" cx="107.80855794965015" cy="185.1950290973952" r="11.708245162375121"></circle><path id="motion_path_52"
+      d="M 107.80855794965015,166.461836837595
+      a 18.733192259800195,18.733192259800195 90 0 0 0,-37.46638451960039
+      a 18.733192259800195,18.733192259800195 90 0 0 0,37.46638451960039
+      a 18.733192259800195,18.733192259800195 90 0 1 0,37.46638451960039
+      a 18.733192259800195,18.733192259800195 90 0 1 0,-37.46638451960039"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.708245162375121" stroke-dasharray="37.46638451960039 197.9418522070935"
+      xlink:href="#motion_path_52">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="32.35563630279016s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="62.12473982622405s"
+  fill="freeze"
+  from="0,107.80855794965015,166.461836837595"
+  to="360,107.80855794965015,166.461836837595"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="117.86165472885494" cy="201.51522839046282" r="7.152990600145464"></circle><circle fill="url(#linear_gradient)" cx="117.86165472885494" cy="224.4047983109283" r="7.152990600145464"></circle><path id="motion_path_53"
+      d="M 117.86165472885494,212.96001335069556
+      a 11.444784960232743,11.444784960232743 90 0 0 0,-22.889569920465487
+      a 11.444784960232743,11.444784960232743 90 0 0 0,22.889569920465487
+      a 11.444784960232743,11.444784960232743 90 0 1 0,22.889569920465487
+      a 11.444784960232743,11.444784960232743 90 0 1 0,-22.889569920465487"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="7.152990600145464" stroke-dasharray="22.889569920465487 120.92983949146306"
+      xlink:href="#motion_path_53">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="297.2250978464498s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="68.12486523246812s"
+  fill="freeze"
+  from="0,117.86165472885494,212.96001335069556"
+  to="360,117.86165472885494,212.96001335069556"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="224.39744569088813" cy="116.9631797536714" r="16.61921358856587"></circle><circle fill="url(#linear_gradient)" cx="224.39744569088813" cy="170.14466323708217" r="16.61921358856587"></circle><path id="motion_path_54"
+      d="M 224.39744569088813,143.55392149537678
+      a 26.590741741705394,26.590741741705394 90 0 0 0,-53.18148348341079
+      a 26.590741741705394,26.590741741705394 90 0 0 0,53.18148348341079
+      a 26.590741741705394,26.590741741705394 90 0 1 0,53.18148348341079
+      a 26.590741741705394,26.590741741705394 90 0 1 0,-53.18148348341079"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="16.61921358856587" stroke-dasharray="53.18148348341079 280.96763215356975"
+      xlink:href="#motion_path_54">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="306.99468099662766s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="88.59159581165638s"
+  fill="freeze"
+  from="0,224.39744569088813,143.55392149537678"
+  to="360,224.39744569088813,143.55392149537678"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="309.77307203188604" cy="173.4105812367201" r="9.668341066214996"></circle><circle fill="url(#linear_gradient)" cx="309.77307203188604" cy="204.3492726486081" r="9.668341066214996"></circle><path id="motion_path_55"
+      d="M 309.77307203188604,188.8799269426641
+      a 15.469345705943994,15.469345705943994 90 0 0 0,-30.938691411887987
+      a 15.469345705943994,15.469345705943994 90 0 0 0,30.938691411887987
+      a 15.469345705943994,15.469345705943994 90 0 1 0,30.938691411887987
+      a 15.469345705943994,15.469345705943994 90 0 1 0,-30.938691411887987"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="9.668341066214996" stroke-dasharray="30.938691411887987 163.45483989064985"
+      xlink:href="#motion_path_55">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="99.79671633113948s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="102.07122758690387s"
+  fill="freeze"
+  from="0,309.77307203188604,188.8799269426641"
+  to="360,309.77307203188604,188.8799269426641"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="92.78289508513458" cy="183.5412236917232" r="14.824659671567364"></circle><circle fill="url(#linear_gradient)" cx="92.78289508513458" cy="230.98013464073875" r="14.824659671567364"></circle><path id="motion_path_56"
+      d="M 92.78289508513458,207.26067916623097
+      a 23.719455474507782,23.719455474507782 90 0 0 0,-47.438910949015565
+      a 23.719455474507782,23.719455474507782 90 0 0 0,47.438910949015565
+      a 23.719455474507782,23.719455474507782 90 0 1 0,47.438910949015565
+      a 23.719455474507782,23.719455474507782 90 0 1 0,-47.438910949015565"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.824659671567364" stroke-dasharray="47.438910949015565 250.62855731443983"
+      xlink:href="#motion_path_56">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="54.8671978562253s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="59.68224933112473s"
+  fill="freeze"
+  from="0,92.78289508513458,207.26067916623097"
+  to="360,92.78289508513458,207.26067916623097"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="123.22153699064698" cy="258.785499456063" r="13.98355322567169"></circle><circle fill="url(#linear_gradient)" cx="123.22153699064698" cy="303.53286977821244" r="13.98355322567169"></circle><path id="motion_path_57"
+      d="M 123.22153699064698,281.1591846171377
+      a 22.373685161074704,22.373685161074704 90 0 0 0,-44.74737032214941
+      a 22.373685161074704,22.373685161074704 90 0 0 0,44.74737032214941
+      a 22.373685161074704,22.373685161074704 90 0 1 0,44.74737032214941
+      a 22.373685161074704,22.373685161074704 90 0 1 0,-44.74737032214941"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.98355322567169" stroke-dasharray="44.74737032214941 236.40864942090363"
+      xlink:href="#motion_path_57">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="193.5240492968989s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="98.43860775868235s"
+  fill="freeze"
+  from="0,123.22153699064698,281.1591846171377"
+  to="360,123.22153699064698,281.1591846171377"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="199.4616973199575" cy="101.39527207972233" r="11.696687642821082"></circle><circle fill="url(#linear_gradient)" cx="199.4616973199575" cy="138.8246725367498" r="11.696687642821082"></circle><path id="motion_path_58"
+      d="M 199.4616973199575,120.10997230823607
+      a 18.71470022851373,18.71470022851373 90 0 0 0,-37.42940045702746
+      a 18.71470022851373,18.71470022851373 90 0 0 0,37.42940045702746
+      a 18.71470022851373,18.71470022851373 90 0 1 0,37.42940045702746
+      a 18.71470022851373,18.71470022851373 90 0 1 0,-37.42940045702746"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.696687642821082" stroke-dasharray="37.42940045702746 197.74645855110836"
+      xlink:href="#motion_path_58">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="26.53360088674902s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="53.65162691641935s"
+  fill="freeze"
+  from="0,199.4616973199575,120.10997230823607"
+  to="360,199.4616973199575,120.10997230823607"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="125.00136197013843" cy="97.16629540083541" r="8.906326850667153"></circle><circle fill="url(#linear_gradient)" cx="125.00136197013843" cy="125.6665413229703" r="8.906326850667153"></circle><path id="motion_path_59"
+      d="M 125.00136197013843,111.41641836190286
+      a 14.250122961067445,14.250122961067445 90 0 0 0,-28.50024592213489
+      a 14.250122961067445,14.250122961067445 90 0 0 0,28.50024592213489
+      a 14.250122961067445,14.250122961067445 90 0 1 0,28.50024592213489
+      a 14.250122961067445,14.250122961067445 90 0 1 0,-28.50024592213489"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.906326850667153" stroke-dasharray="28.50024592213489 150.57208050682797"
+      xlink:href="#motion_path_59">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="18.599092403298126s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="70.84798872247825s"
+  fill="freeze"
+  from="0,125.00136197013843,111.41641836190286"
+  to="360,125.00136197013843,111.41641836190286"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="272.35362898679455" cy="156.48791139287877" r="13.898646548256222"></circle><circle fill="url(#linear_gradient)" cx="272.35362898679455" cy="200.9635803472987" r="13.898646548256222"></circle><path id="motion_path_60"
+      d="M 272.35362898679455,178.72574587008873
+      a 22.237834477209958,22.237834477209958 90 0 0 0,-44.475668954419916
+      a 22.237834477209958,22.237834477209958 90 0 0 0,44.475668954419916
+      a 22.237834477209958,22.237834477209958 90 0 1 0,44.475668954419916
+      a 22.237834477209958,22.237834477209958 90 0 1 0,-44.475668954419916"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="13.898646548256222" stroke-dasharray="44.475668954419916 234.97320074697456"
+      xlink:href="#motion_path_60">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="84.02373101390221s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="62.037397691463894s"
+  fill="freeze"
+  from="0,272.35362898679455,178.72574587008873"
+  to="360,272.35362898679455,178.72574587008873"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="169.92556983790945" cy="251.05326759541532" r="16.845859816812634"></circle><circle fill="url(#linear_gradient)" cx="169.92556983790945" cy="304.9600190092157" r="16.845859816812634"></circle><path id="motion_path_61"
+      d="M 169.92556983790945,278.0066433023155
+      a 26.953375706900218,26.953375706900218 90 0 0 0,-53.906751413800436
+      a 26.953375706900218,26.953375706900218 90 0 0 0,53.906751413800436
+      a 26.953375706900218,26.953375706900218 90 0 1 0,53.906751413800436
+      a 26.953375706900218,26.953375706900218 90 0 1 0,-53.906751413800436"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="16.845859816812634" stroke-dasharray="53.906751413800436 284.79935702717285"
+      xlink:href="#motion_path_61">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="225.99856475306336s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="89.20183224750295s"
+  fill="freeze"
+  from="0,169.92556983790945,278.0066433023155"
+  to="360,169.92556983790945,278.0066433023155"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="173.35182152943906" cy="147.7172718851908" r="5.979128804044722"></circle><circle fill="url(#linear_gradient)" cx="173.35182152943906" cy="166.8504840581339" r="5.979128804044722"></circle><path id="motion_path_62"
+      d="M 173.35182152943906,157.28387797166235
+      a 9.566606086471555,9.566606086471555 90 0 0 0,-19.13321217294311
+      a 9.566606086471555,9.566606086471555 90 0 0 0,19.13321217294311
+      a 9.566606086471555,9.566606086471555 90 0 1 0,19.13321217294311
+      a 9.566606086471555,9.566606086471555 90 0 1 0,-19.13321217294311"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="5.979128804044722" stroke-dasharray="19.13321217294311 101.08430543124265"
+      xlink:href="#motion_path_62">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="265.55906720177893s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="61.82855091909333s"
+  fill="freeze"
+  from="0,173.35182152943906,157.28387797166235"
+  to="360,173.35182152943906,157.28387797166235"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="123.7400469627231" cy="157.59330612674282" r="14.014793985796185"></circle><circle fill="url(#linear_gradient)" cx="123.7400469627231" cy="202.44064688129063" r="14.014793985796185"></circle><path id="motion_path_63"
+      d="M 123.7400469627231,180.01697650401672
+      a 22.423670377273897,22.423670377273897 90 0 0 0,-44.847340754547794
+      a 22.423670377273897,22.423670377273897 90 0 0 0,44.847340754547794
+      a 22.423670377273897,22.423670377273897 90 0 1 0,44.847340754547794
+      a 22.423670377273897,22.423670377273897 90 0 1 0,-44.847340754547794"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.014793985796185" stroke-dasharray="44.847340754547794 236.93681174050315"
+      xlink:href="#motion_path_63">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="27.00630669551608s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="13.286213269893757s"
+  fill="freeze"
+  from="0,123.7400469627231,180.01697650401672"
+  to="360,123.7400469627231,180.01697650401672"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="259.5685819785407" cy="194.7137980588675" r="8.048781684884615"></circle><circle fill="url(#linear_gradient)" cx="259.5685819785407" cy="220.46989945049825" r="8.048781684884615"></circle><path id="motion_path_64"
+      d="M 259.5685819785407,207.59184875468287
+      a 12.878050695815384,12.878050695815384 90 0 0 0,-25.756101391630768
+      a 12.878050695815384,12.878050695815384 90 0 0 0,25.756101391630768
+      a 12.878050695815384,12.878050695815384 90 0 1 0,25.756101391630768
+      a 12.878050695815384,12.878050695815384 90 0 1 0,-25.756101391630768"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.048781684884615" stroke-dasharray="25.756101391630768 136.07425644249136"
+      xlink:href="#motion_path_64">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="99.57838949873744s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="90.6500855448468s"
+  fill="freeze"
+  from="0,259.5685819785407,207.59184875468287"
+  to="360,259.5685819785407,207.59184875468287"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="267.1132750775947" cy="230.26233530018234" r="3.2025245259339847"></circle><circle fill="url(#linear_gradient)" cx="267.1132750775947" cy="240.51041378317112" r="3.2025245259339847"></circle><path id="motion_path_65"
+      d="M 267.1132750775947,235.38637454167673
+      a 5.124039241494376,5.124039241494376 90 0 0 0,-10.248078482988753
+      a 5.124039241494376,5.124039241494376 90 0 0 0,10.248078482988753
+      a 5.124039241494376,5.124039241494376 90 0 1 0,10.248078482988753
+      a 5.124039241494376,5.124039241494376 90 0 1 0,-10.248078482988753"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="3.2025245259339847" stroke-dasharray="10.248078482988753 54.14249766814944"
+      xlink:href="#motion_path_65">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="79.07855575731693s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="45.73405082821124s"
+  fill="freeze"
+  from="0,267.1132750775947,235.38637454167673"
+  to="360,267.1132750775947,235.38637454167673"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="130.75400215600405" cy="291.7376792254697" r="14.940312760698887"></circle><circle fill="url(#linear_gradient)" cx="130.75400215600405" cy="339.5466800597062" r="14.940312760698887"></circle><path id="motion_path_66"
+      d="M 130.75400215600405,315.64217964258796
+      a 23.90450041711822,23.90450041711822 90 0 0 0,-47.80900083423644
+      a 23.90450041711822,23.90450041711822 90 0 0 0,47.80900083423644
+      a 23.90450041711822,23.90450041711822 90 0 1 0,47.80900083423644
+      a 23.90450041711822,23.90450041711822 90 0 1 0,-47.80900083423644"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.940312760698887" stroke-dasharray="47.80900083423644 252.58381075837457"
+      xlink:href="#motion_path_66">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="25.83717485867617s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="82.53854134084021s"
+  fill="freeze"
+  from="0,130.75400215600405,315.64217964258796"
+  to="360,130.75400215600405,315.64217964258796"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="135.43089607178672" cy="187.94958773684274" r="11.058519136153336"></circle><circle fill="url(#linear_gradient)" cx="135.43089607178672" cy="223.33684897253343" r="11.058519136153336"></circle><path id="motion_path_67"
+      d="M 135.43089607178672,205.6432183546881
+      a 17.69363061784534,17.69363061784534 90 0 0 0,-35.38726123569068
+      a 17.69363061784534,17.69363061784534 90 0 0 0,35.38726123569068
+      a 17.69363061784534,17.69363061784534 90 0 1 0,35.38726123569068
+      a 17.69363061784534,17.69363061784534 90 0 1 0,-35.38726123569068"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.058519136153336" stroke-dasharray="35.38726123569068 186.95745862172672"
+      xlink:href="#motion_path_67">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="169.34141404980596s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="16.170355726805155s"
+  fill="freeze"
+  from="0,135.43089607178672,205.6432183546881"
+  to="360,135.43089607178672,205.6432183546881"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="224.75010002708464" cy="80.23856714299491" r="15.152680918921384"></circle><circle fill="url(#linear_gradient)" cx="224.75010002708464" cy="128.72714608354335" r="15.152680918921384"></circle><path id="motion_path_68"
+      d="M 224.75010002708464,104.48285661326912
+      a 24.244289470274214,24.244289470274214 90 0 0 0,-48.48857894054843
+      a 24.244289470274214,24.244289470274214 90 0 0 0,48.48857894054843
+      a 24.244289470274214,24.244289470274214 90 0 1 0,48.48857894054843
+      a 24.244289470274214,24.244289470274214 90 0 1 0,-48.48857894054843"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.152680918921384" stroke-dasharray="48.48857894054843 256.1741478247229"
+      xlink:href="#motion_path_68">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="88.7752971924871s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="101.39327260691475s"
+  fill="freeze"
+  from="0,224.75010002708464,104.48285661326912"
+  to="360,224.75010002708464,104.48285661326912"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="269.2083950279597" cy="78.04368787599283" r="11.701281821120562"></circle><circle fill="url(#linear_gradient)" cx="269.2083950279597" cy="115.48778970357863" r="11.701281821120562"></circle><path id="motion_path_69"
+      d="M 269.2083950279597,96.76573878978573
+      a 18.7220509137929,18.7220509137929 90 0 0 0,-37.4441018275858
+      a 18.7220509137929,18.7220509137929 90 0 0 0,37.4441018275858
+      a 18.7220509137929,18.7220509137929 90 0 1 0,37.4441018275858
+      a 18.7220509137929,18.7220509137929 90 0 1 0,-37.4441018275858"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.701281821120562" stroke-dasharray="37.4441018275858 197.82412861603757"
+      xlink:href="#motion_path_69">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="187.08555252203124s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="31.6877397400024s"
+  fill="freeze"
+  from="0,269.2083950279597,96.76573878978573"
+  to="360,269.2083950279597,96.76573878978573"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="114.93617965891504" cy="80.09465196884092" r="14.901817470257487"></circle><circle fill="url(#linear_gradient)" cx="114.93617965891504" cy="127.78046787366488" r="14.901817470257487"></circle><path id="motion_path_70"
+      d="M 114.93617965891504,103.9375599212529
+      a 23.84290795241198,23.84290795241198 90 0 0 0,-47.68581590482396
+      a 23.84290795241198,23.84290795241198 90 0 0 0,47.68581590482396
+      a 23.84290795241198,23.84290795241198 90 0 1 0,47.68581590482396
+      a 23.84290795241198,23.84290795241198 90 0 1 0,-47.68581590482396"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.901817470257487" stroke-dasharray="47.68581590482396 251.93300194923657"
+      xlink:href="#motion_path_70">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="32.02935714394045s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="62.553942345080415s"
+  fill="freeze"
+  from="0,114.93617965891504,103.9375599212529"
+  to="360,114.93617965891504,103.9375599212529"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="298.91944700999477" cy="107.28573097206885" r="15.949466104814434"></circle><circle fill="url(#linear_gradient)" cx="298.91944700999477" cy="158.32402250747504" r="15.949466104814434"></circle><path id="motion_path_71"
+      d="M 298.91944700999477,132.80487673977194
+      a 25.519145767703094,25.519145767703094 90 0 0 0,-51.03829153540619
+      a 25.519145767703094,25.519145767703094 90 0 0 0,51.03829153540619
+      a 25.519145767703094,25.519145767703094 90 0 1 0,51.03829153540619
+      a 25.519145767703094,25.519145767703094 90 0 1 0,-51.03829153540619"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.949466104814434" stroke-dasharray="51.03829153540619 269.6447519434062"
+      xlink:href="#motion_path_71">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="297.6936898932032s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="87.47766769464918s"
+  fill="freeze"
+  from="0,298.91944700999477,132.80487673977194"
+  to="360,298.91944700999477,132.80487673977194"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="160.32906466873487" cy="136.84393464063953" r="10.951363593622814"></circle><circle fill="url(#linear_gradient)" cx="160.32906466873487" cy="171.88829814023256" r="10.951363593622814"></circle><path id="motion_path_72"
+      d="M 160.32906466873487,154.36611639043605
+      a 17.522181749796502,17.522181749796502 90 0 0 0,-35.044363499593004
+      a 17.522181749796502,17.522181749796502 90 0 0 0,35.044363499593004
+      a 17.522181749796502,17.522181749796502 90 0 1 0,35.044363499593004
+      a 17.522181749796502,17.522181749796502 90 0 1 0,-35.044363499593004"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="10.951363593622814" stroke-dasharray="35.044363499593004 185.14586634051034"
+      xlink:href="#motion_path_72">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="61.182290682167306s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="101.71522127892612s"
+  fill="freeze"
+  from="0,160.32906466873487,154.36611639043605"
+  to="360,160.32906466873487,154.36611639043605"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="74.50280143735087" cy="135.41674763913934" r="12.906738215379224"></circle><circle fill="url(#linear_gradient)" cx="74.50280143735087" cy="176.71830992835285" r="12.906738215379224"></circle><path id="motion_path_73"
+      d="M 74.50280143735087,156.0675287837461
+      a 20.65078114460676,20.65078114460676 90 0 0 0,-41.30156228921352
+      a 20.65078114460676,20.65078114460676 90 0 0 0,41.30156228921352
+      a 20.65078114460676,20.65078114460676 90 0 1 0,41.30156228921352
+      a 20.65078114460676,20.65078114460676 90 0 1 0,-41.30156228921352"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="12.906738215379224" stroke-dasharray="41.30156228921352 218.2038070499354"
+      xlink:href="#motion_path_73">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="24.71815109231043s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="78.00669651418183s"
+  fill="freeze"
+  from="0,74.50280143735087,156.0675287837461"
+  to="360,74.50280143735087,156.0675287837461"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="97.71846896500122" cy="233.95509360341865" r="9.302543686842657"></circle><circle fill="url(#linear_gradient)" cx="97.71846896500122" cy="263.72323340131516" r="9.302543686842657"></circle><path id="motion_path_74"
+      d="M 97.71846896500122,248.8391635023669
+      a 14.884069898948253,14.884069898948253 90 0 0 0,-29.768139797896506
+      a 14.884069898948253,14.884069898948253 90 0 0 0,29.768139797896506
+      a 14.884069898948253,14.884069898948253 90 0 1 0,29.768139797896506
+      a 14.884069898948253,14.884069898948253 90 0 1 0,-29.768139797896506"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="9.302543686842657" stroke-dasharray="29.768139797896506 157.2705988023147"
+      xlink:href="#motion_path_74">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="241.43880514795066s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="93.12054259846376s"
+  fill="freeze"
+  from="0,97.71846896500122,248.8391635023669"
+  to="360,97.71846896500122,248.8391635023669"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="170.07494332946786" cy="237.59819600586158" r="4.905027506112098"></circle><circle fill="url(#linear_gradient)" cx="170.07494332946786" cy="253.2942840254203" r="4.905027506112098"></circle><path id="motion_path_75"
+      d="M 170.07494332946786,245.44624001564094
+      a 7.848044009779357,7.848044009779357 90 0 0 0,-15.696088019558713
+      a 7.848044009779357,7.848044009779357 90 0 0 0,15.696088019558713
+      a 7.848044009779357,7.848044009779357 90 0 1 0,15.696088019558713
+      a 7.848044009779357,7.848044009779357 90 0 1 0,-15.696088019558713"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="4.905027506112098" stroke-dasharray="15.696088019558713 82.92534160513013"
+      xlink:href="#motion_path_75">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="138.0988762707644s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="58.86789656813859s"
+  fill="freeze"
+  from="0,170.07494332946786,245.44624001564094"
+  to="360,170.07494332946786,245.44624001564094"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="287.77338114033034" cy="174.17341399692197" r="14.232710690236079"></circle><circle fill="url(#linear_gradient)" cx="287.77338114033034" cy="219.71808820567742" r="14.232710690236079"></circle><path id="motion_path_76"
+      d="M 287.77338114033034,196.9457511012997
+      a 22.772337104377726,22.772337104377726 90 0 0 0,-45.54467420875545
+      a 22.772337104377726,22.772337104377726 90 0 0 0,45.54467420875545
+      a 22.772337104377726,22.772337104377726 90 0 1 0,45.54467420875545
+      a 22.772337104377726,22.772337104377726 90 0 1 0,-45.54467420875545"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="14.232710690236079" stroke-dasharray="45.54467420875545 240.62095359997784"
+      xlink:href="#motion_path_76">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="58.251928681003385s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="26.37896291641574s"
+  fill="freeze"
+  from="0,287.77338114033034,196.9457511012997"
+  to="360,287.77338114033034,196.9457511012997"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="239.24755849930278" cy="219.3216187399181" r="11.99577418101426"></circle><circle fill="url(#linear_gradient)" cx="239.24755849930278" cy="257.70809611916377" r="11.99577418101426"></circle><path id="motion_path_77"
+      d="M 239.24755849930278,238.51485742954094
+      a 19.193238689622817,19.193238689622817 90 0 0 0,-38.38647737924563
+      a 19.193238689622817,19.193238689622817 90 0 0 0,38.38647737924563
+      a 19.193238689622817,19.193238689622817 90 0 1 0,38.38647737924563
+      a 19.193238689622817,19.193238689622817 90 0 1 0,-38.38647737924563"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="11.99577418101426" stroke-dasharray="38.38647737924563 202.80287328441207"
+      xlink:href="#motion_path_77">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="124.01739522028964s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="96.85081752490854s"
+  fill="freeze"
+  from="0,239.24755849930278,238.51485742954094"
+  to="360,239.24755849930278,238.51485742954094"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="325.0979241505043" cy="253.29162373303083" r="8.511943943306644"></circle><circle fill="url(#linear_gradient)" cx="325.0979241505043" cy="280.5298443516121" r="8.511943943306644"></circle><path id="motion_path_78"
+      d="M 325.0979241505043,266.91073404232145
+      a 13.619110309290631,13.619110309290631 90 0 0 0,-27.238220618581263
+      a 13.619110309290631,13.619110309290631 90 0 0 0,27.238220618581263
+      a 13.619110309290631,13.619110309290631 90 0 1 0,27.238220618581263
+      a 13.619110309290631,13.619110309290631 90 0 1 0,-27.238220618581263"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="8.511943943306644" stroke-dasharray="27.238220618581263 143.90456696580458"
+      xlink:href="#motion_path_78">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="164.12368131705628s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="102.32323746519543s"
+  fill="freeze"
+  from="0,325.0979241505043,266.91073404232145"
+  to="360,325.0979241505043,266.91073404232145"
+  repeatCount="indefinite" /></g><g><defs>
+    <linearGradient id="linear_gradient">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs><circle fill="url(#linear_gradient)" cx="248.81451797747903" cy="81.2334378295303" r="15.61054105923085"></circle><circle fill="url(#linear_gradient)" cx="248.81451797747903" cy="131.187169219069" r="15.61054105923085"></circle><path id="motion_path_79"
+      d="M 248.81451797747903,106.21030352429966
+      a 24.97686569476936,24.97686569476936 90 0 0 0,-49.95373138953872
+      a 24.97686569476936,24.97686569476936 90 0 0 0,49.95373138953872
+      a 24.97686569476936,24.97686569476936 90 0 1 0,49.95373138953872
+      a 24.97686569476936,24.97686569476936 90 0 1 0,-49.95373138953872"
+      stroke-linecap="round"
+      fill="transparent" /><use stroke="url(#linear_gradient)" stroke-width="15.61054105923085" stroke-dasharray="49.95373138953872 263.9148197160066"
+      xlink:href="#motion_path_79">
+      <animate attributeName="stroke-dashoffset"
+        from="100" to="-528"
+        begin="0s" dur="64.9553317625642s"
+        stroke="url(#linear_gradient)"
+        repeatCount="indefinite" />
+    </use><animateTransform
+  attributeName="transform"
+  type="rotate"
+  begin="0s"
+  dur="108.04837733550342s"
+  fill="freeze"
+  from="0,248.81451797747903,106.21030352429966"
+  to="360,248.81451797747903,106.21030352429966"
+  repeatCount="indefinite" /></g></g>
+</svg>
