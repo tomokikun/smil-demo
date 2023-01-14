@@ -1,4 +1,9 @@
-<svg viewBox="0 0 450 450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg
+  viewBox="0 0 450 450"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <rect width="450" height="450" fill="#000"/>
     <g filter="url(#s44)">
   <filter id="s44">
     <feTurbulence
