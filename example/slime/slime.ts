@@ -5,13 +5,6 @@ import { random } from "../lib/random";
 
 const colorId = "linear_gradient";
 
-const defs = `<defs>
-    <linearGradient id="${colorId}">
-      <stop offset="0%" stop-color="orange" />
-      <stop offset="100%" stop-color="teal" />
-    </linearGradient>
-  </defs>`
-
 interface EightProps {
   id: string,
   cx: number,
@@ -40,7 +33,7 @@ const generateEight = (props: EightProps): string => {
     baseColor,
     strokeDuration,
     rotateDuration,
-    defs
+    defs: ""
   })
 }
 
@@ -65,6 +58,15 @@ async function main() {
     }))
     .join("");
 
+  const defs = `<defs>
+    <linearGradient id="${colorId}">
+      <stop offset="0%" stop-color="orange" />
+      <stop offset="100%" stop-color="teal" />
+    </linearGradient>
+  </defs>`
+
+
+
   const filterId = "s44";
   const filter = `
   <filter id="${filterId}">
@@ -85,6 +87,7 @@ async function main() {
   const g = (ch?: any) => {
     return [
       `<g filter="url(#${filterId})">`,
+      defs,
       filter,
       eights,
       "</g>",
