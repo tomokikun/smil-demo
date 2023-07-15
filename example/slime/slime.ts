@@ -18,9 +18,9 @@ interface EightProps {
 const generateEight = (props: EightProps): string => {
   const { id, cx, cy, r, theta, strokeDuration, rotateDuration } = props;
 
-  const x = cx + r * Math.cos(theta);
-  const y = cy + r * Math.sin(theta);
-  const visibleCircleRadius = random(2, 50);
+  const x = Math.round(cx + r * Math.cos(theta));
+  const y = Math.round(cy + r * Math.sin(theta));
+  const visibleCircleRadius = Math.round(random(2, 50));
   const circleCount = 2;
   const baseColor = `url(#${colorId})`;
 
@@ -44,7 +44,7 @@ async function main() {
 
   const baseMaxDuration = 30 * 60; // sec
 
-  const randomDuration = () => random(baseMaxDuration * 0.1, baseMaxDuration);
+  const randomDuration = () => Math.round(random(baseMaxDuration * 0.1, baseMaxDuration));
 
   const eights = Array(counts).fill(0)
     .map((_, i) => generateEight({
@@ -65,12 +65,11 @@ async function main() {
     </linearGradient>
   </defs>`
 
-
-
   const filterId = "s44";
   const filter = `
   <filter id="${filterId}">
     <feTurbulence
+      id="turbulence_filter"
       type="fractalNoise"
       baseFrequency="0.05"
       numOctaves="0.5"
@@ -82,6 +81,15 @@ async function main() {
       xChannelSelector="R"
       yChannelSelector="G" />
     <feGaussianBlur stdDeviation="0 0.1" />
+    <animate
+      xlink:href="#turbulence_filter"
+      attributeName="baseFrequency"
+      values="0.2; 1; 0.2"
+      fill="freeze"
+      begin="click"
+      dur="1200s"
+      repeatCount="indefinite"
+    />
   </filter>
   `
   const g = (ch?: any) => {

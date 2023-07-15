@@ -116,7 +116,7 @@ interface EightProps {
 
 export const eight = (props: EightProps) => {
   const { id, cx, cy, visibleCircleRadius, circleCount, baseColor, strokeDuration, rotateDuration, defs } = props;
-  const wrapperCircleRadius = visibleCircleRadius * 1.6;
+  const wrapperCircleRadius = Math.round(visibleCircleRadius * 1.6);
   const strokeWidth = visibleCircleRadius;
 
   return [
