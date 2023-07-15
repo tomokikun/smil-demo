@@ -50,6 +50,10 @@ async function main() {
   const counts = 10;
   const innerRadius = 30;
 
+  const baseMaxDuration = 30 * 60; // sec
+
+  const randomDuration = () => random(baseMaxDuration * 0.1, baseMaxDuration);
+
   const eights = Array(counts).fill(0)
     .map((_, i) => generateEight({
       id: i.toString(),
@@ -57,22 +61,22 @@ async function main() {
       cy: 200,
       r: random(innerRadius, 50),
       theta: random(0, 360) * Math.PI / 180,
-      strokeDuration: random(10, 100),
-      rotateDuration: random(10, 100),
+      strokeDuration: randomDuration(),
+      rotateDuration: randomDuration(),
     }))
     .join("");
 
   const filter = `
   <filter id="s44">
     <feTurbulence
-      type="turbulence"
+      type="fractalNoise"
       baseFrequency="0.05"
-      numOctaves="2"
+      numOctaves="0.5"
       result="turbulence" />
     <feDisplacementMap
       in2="turbulence"
       in="SourceGraphic"
-      scale="80"
+      scale="50"
       xChannelSelector="R"
       yChannelSelector="G" />
     <feGaussianBlur stdDeviation="0 0.1" />
