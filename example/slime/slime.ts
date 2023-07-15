@@ -3,15 +3,14 @@ import { svg } from "../lib/svg";
 import { eight } from "../eight/eight";
 import { random } from "../lib/random";
 
+const colorId = "linear_gradient";
 
-const defs = () => {
-  return `<defs>
-    <linearGradient id="linear_gradient">
+const defs = `<defs>
+    <linearGradient id="${colorId}">
       <stop offset="0%" stop-color="orange" />
       <stop offset="100%" stop-color="teal" />
     </linearGradient>
   </defs>`
-}
 
 interface EightProps {
   id: string,
@@ -30,7 +29,7 @@ const generateEight = (props: EightProps): string => {
   const y = cy + r * Math.sin(theta);
   const visibleCircleRadius = random(2, 50);
   const circleCount = 2;
-  const baseColor = "url(#linear_gradient)";
+  const baseColor = `url(#${colorId})`;
 
   return eight({
     id,
@@ -41,7 +40,7 @@ const generateEight = (props: EightProps): string => {
     baseColor,
     strokeDuration,
     rotateDuration,
-    defs: defs()
+    defs
   })
 }
 
@@ -66,8 +65,9 @@ async function main() {
     }))
     .join("");
 
+  const filterId = "s44";
   const filter = `
-  <filter id="s44">
+  <filter id="${filterId}">
     <feTurbulence
       type="fractalNoise"
       baseFrequency="0.05"
@@ -84,7 +84,7 @@ async function main() {
   `
   const g = (ch?: any) => {
     return [
-      '<g filter="url(#s44)">',
+      `<g filter="url(#${filterId})">`,
       filter,
       eights,
       "</g>",
