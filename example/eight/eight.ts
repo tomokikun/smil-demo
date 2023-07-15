@@ -19,7 +19,7 @@ interface CircleProps {
 
 const circle = (props: CircleProps) => {
   const { cx, cy, r, fill } = props;
-  return `<circle fill="${fill}" cx="${cx}" cy="${cy}" r="${r}"></circle>`
+  return `<circle fill="${fill}" cx="${cx}" cy="${cy}" r="${r}"/>`
 }
 
 interface MotionPathProps {
